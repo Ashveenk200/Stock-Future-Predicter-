@@ -6,5 +6,5 @@ pandas-datareader==0.10.0
 yfinance==0.1.64
 scikit-learn==0.24.2
 keras==2.6.0
-streamlit==0.89.0
+streamlit==1.22.0
 tensorflow
